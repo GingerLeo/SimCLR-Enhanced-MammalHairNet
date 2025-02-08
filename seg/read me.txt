@@ -1,0 +1,6 @@
+training set: hair_202407_per15
+training set mask: PixelLabelData_1
+training set gTruth: gTruth_20241112.mat
+test set: seg_test_per85_per10
+test set mask: PixelLabelData
+dataset & well trained networks: https://zenodo.org
