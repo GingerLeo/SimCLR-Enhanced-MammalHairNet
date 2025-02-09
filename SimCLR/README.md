@@ -9,6 +9,8 @@
 ### See also [PyTorch Implementation for BYOL - Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://github.com/sthalles/PyTorch-BYOL).
 
 ### **Modifications by [Liu Zhihui]**
+The following code is modified from [sthalles/SimCLR](https://github.com/sthalles/SimCLR)
+Original code is located at [simclr/model.py](https://github.com/sthalles/SimCLR/blob/master/run.py)
 This repository includes modifications to the original SimCLR implementation. Key changes include:
 - Added new dataset about mammal hair scales. [10.5281/zenodo.14835824]
 - Added support for saving the best model based on Top1 accuracy.
