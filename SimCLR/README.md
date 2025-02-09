@@ -10,7 +10,7 @@
 
 ### **Modifications by [Liu Zhihui]**
 The following code is modified from [sthalles/SimCLR](https://github.com/sthalles/SimCLR)
-Original code is located at [simclr/model.py](https://github.com/sthalles/SimCLR/blob/master/run.py)
+Original code is located at [simclr](https://github.com/sthalles/SimCLR/blob/master)
 This repository includes modifications to the original SimCLR implementation. Key changes include:
 - Added new dataset about mammal hair scales. [10.5281/zenodo.14835824]
 - Added support for saving the best model based on Top1 accuracy.
