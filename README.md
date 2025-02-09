@@ -17,4 +17,4 @@ SAM_15_2025_100_oriname.tar & sam_2025_15_100_rgb.tar Note that these two test s
 SimCLR.tar ->sim_25 & sim_33
 
 ### semantic segmentation
-Labeled training sets and test sets seg.tar
+Labeled training sets and test sets: seg.tar
