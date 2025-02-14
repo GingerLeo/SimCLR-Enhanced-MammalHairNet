@@ -13,8 +13,10 @@ sam_2025_85_rgb_720_per100_50_30.tar The dataset comprises data excluded from th
 
 SAM_15_2025_100_oriname.tar & sam_2025_15_100_rgb.tar Note that these two test sets only have some name adjustments(Orangutan->Bornean_orangutan;Red_deer->Wapiti;Wolf->Grey_wolf;Chinese_Water_deer->Water_deer), but the images are the same.  The images within these two compressed packages vary in resolution; however, all the image sizes are adjusted to [224 224] when classifying.
 
-### trained networks
 SimCLR.tar ->sim_25 & sim_33
 
 ### semantic segmentation
-Labeled training sets and test sets: seg.tar
+seg.tar Semantic Segmentation Models and Annotated Datasets
+
+### classification
+code&model.tar Contains five folders Evaluation_Metrics, fine_tuning, img_cropped_and_augmented, resnet, and SimCLR
