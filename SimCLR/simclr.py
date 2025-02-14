@@ -1,5 +1,5 @@
 # The following code is modified from [sthalles/SimCLR](https://github.com/sthalles/SimCLR)
-# Original code is located at [simclr/model.py](https://github.com/sthalles/SimCLR/blob/master/simclr.py)
+# Original code is located at [simclr/simclr.py](https://github.com/sthalles/SimCLR/blob/master/simclr.py)
 # Modifications: Added a tqdm progress bar; saved the best model.
 
 import logging
