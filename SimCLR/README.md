@@ -8,11 +8,11 @@
 
 ### See also [PyTorch Implementation for BYOL - Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://github.com/sthalles/PyTorch-BYOL).
 
-### **Modifications by [Liu Zhihui]**
+### **Modifications by [Temporary anonymity]**
 The following code is modified from [sthalles/SimCLR](https://github.com/sthalles/SimCLR)
 Original code is located at [simclr](https://github.com/sthalles/SimCLR/blob/master)
 This repository includes modifications to the original SimCLR implementation. Key changes include:
-- Added new dataset about mammal hair scales.[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14835824.svg)](https://doi.org/10.5281/zenodo.14835824)
+- Added new dataset about mammal hair scales. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14863215.svg)](https://doi.org/10.5281/zenodo.14863215)
 - Added support for saving the best model based on Top1 accuracy.
 - Improved training progress visualization with `tqdm` progress bars.
 - Added real-time logging of loss and Top1 accuracy during training.
