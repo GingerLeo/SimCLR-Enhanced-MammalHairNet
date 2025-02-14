@@ -1,6 +1,6 @@
 -The code in SimCLR is modified from [sthalles/SimCLR](https://github.com/sthalles/SimCLR)  
 
--Our dataset and trained networks on mammalian hair scales  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14840811.svg)](https://doi.org/10.5281/zenodo.14840811)
+-Our dataset and trained networks on mammalian hair scales  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14863215.svg)](https://doi.org/10.5281/zenodo.14863215)
 
 ### dataset
 ori_all_training.tar Contains all raw data outside the test set
