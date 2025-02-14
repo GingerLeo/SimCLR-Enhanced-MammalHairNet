@@ -1,5 +1,5 @@
 # The following code is modified from [sthalles/SimCLR](https://github.com/sthalles/SimCLR)
-# Original code is located at [simclr/model.py](https://github.com/sthalles/SimCLR/blob/master/data_aug/contrastive_learning_dataset.py)
+# Original code is located at [simclr/contrastive_learning_dataset.py](https://github.com/sthalles/SimCLR/blob/master/data_aug/contrastive_learning_dataset.py)
 # Modifications: Added 'my_dataset'
 
 from torchvision.transforms import transforms
