@@ -1,5 +1,5 @@
 # The following code is modified from [sthalles/SimCLR](https://github.com/sthalles/SimCLR)
-# Original code is located at [simclr/model.py](https://github.com/sthalles/SimCLR/blob/master/run.py)
+# Original code is located at [simclr/run.py](https://github.com/sthalles/SimCLR/blob/master/run.py)
 # Modifications: Added 'my_dataset'; Added a tqdm progress bar; saved the best model.
 
 import argparse
