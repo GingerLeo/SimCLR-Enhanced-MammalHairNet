@@ -8,7 +8,7 @@
 
 ### See also [PyTorch Implementation for BYOL - Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://github.com/sthalles/PyTorch-BYOL).
 
-### **Modifications by [Temporary anonymity]**
+### **Modifications by [Liu Zhihui]**
 The following code is modified from [sthalles/SimCLR](https://github.com/sthalles/SimCLR)
 Original code is located at [simclr](https://github.com/sthalles/SimCLR/blob/master)
 This repository includes modifications to the original SimCLR implementation. Key changes include:
